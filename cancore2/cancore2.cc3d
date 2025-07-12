@@ -1,0 +1,5 @@
+<Simulation version="4.6.0">
+   <PythonScript Type="PythonScript">Simulation/cancore2.py</PythonScript>
+   <Resource Type="Python">Simulation/cancore2Steppables.py</Resource>
+   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.json</ParameterScan>
+</Simulation>

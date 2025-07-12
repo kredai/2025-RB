@@ -1,0 +1,168 @@
+{
+    "Version": "4.6.0",
+    "ScreenshotData": {
+        "cancore2": {
+            "Plot": {
+                "PlotType": "CellField",
+                "PlotName": "Cell_Field"
+            },
+            "Dimension": "2D",
+            "Projection": {
+                "ProjectionPlane": "XY",
+                "ProjectionPosition": 0
+            },
+            "CameraClippingRange": {
+                "Min": "228.0",
+                "Min": "228.0",
+                "Max": "252.0"
+            },
+            "CameraFocalPoint": {
+                "x": "46.0",
+                "y": "46.0",
+                "z": "0.0"
+            },
+            "CameraPosition": {
+                "x": "46.0",
+                "y": "46.0",
+                "z": "240.0"
+            },
+            "CameraViewUp": {
+                "x": "0.0",
+                "y": "1.0",
+                "z": "0.0"
+            },
+            "Size": {
+                "Width": 600,
+                "Height": 600
+            },
+            "CellBorders": true,
+            "Cells": true,
+            "ClusterBorders": false,
+            "CellGlyphs": false,
+            "FPPLinks": false,
+            "BoundingBox": true,
+            "LatticeAxes": true,
+            "LatticeAxesLabels": true,
+            "TypesInvisible": [
+                0,
+                1
+            ],
+            "CellShellOptimization": true,
+            "metadata": {
+                "BorderColor": [
+                    160,
+                    160,
+                    160,
+                    255
+                ],
+                "ClusterBorderColor": [
+                    80,
+                    80,
+                    80,
+                    255
+                ],
+                "BoundingBoxColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "AxesColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "ContourColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "WindowColor": [
+                    0,
+                    0,
+                    0,
+                    255
+                ],
+                "FPPLinksColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "ShowHorizontalAxesLabels": true,
+                "ShowVerticalAxesLabels": true,
+                "TypeColorMap": {
+                    "0": [
+                        0,
+                        0,
+                        0,
+                        255
+                    ],
+                    "1": [
+                        240,
+                        160,
+                        160,
+                        255
+                    ],
+                    "2": [
+                        240,
+                        240,
+                        160,
+                        255
+                    ],
+                    "3": [
+                        160,
+                        240,
+                        160,
+                        255
+                    ],
+                    "4": [
+                        200,
+                        200,
+                        160,
+                        255
+                    ],
+                    "5": [
+                        80,
+                        80,
+                        240,
+                        255
+                    ],
+                    "6": [
+                        160,
+                        120,
+                        240,
+                        255
+                    ],
+                    "7": [
+                        120,
+                        160,
+                        240,
+                        255
+                    ],
+                    "8": [
+                        80,
+                        80,
+                        80,
+                        255
+                    ],
+                    "9": [
+                        240,
+                        240,
+                        240,
+                        255
+                    ],
+                    "10": [
+                        240,
+                        240,
+                        240,
+                        255
+                    ]
+                }
+            },
+            "screenshotName": "cancore2"
+        }
+    }
+}
